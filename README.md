@@ -5,7 +5,7 @@ This is simple front-end User Managment Application.
 Node.js v20.14.0 or later <br>
 Visual Studio Code 1.93.1 or later
 
-## How to install the back - end part of our project.
+## How to install the front-end part of our project.
 
 1. First create a folder with the name back-end and open the same folder in the terminal (cmd or Powershell) and type git clone https://github.com/sanito94/java-project-frontend.git  ---> that is how we clone the front-end part of the  project.
 2. When the clone is done type --> cd java-project-frontend
